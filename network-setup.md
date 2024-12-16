@@ -48,3 +48,13 @@
 - Model: PC
 - IP Address: 210.3.14.4
 - Default Gateway: 210.3.14.1
+
+### PC3:
+- Model: PC
+- IP Address: 168.90.0.6
+- Default Gateway: 168.90.0.1
+
+### PC4:
+- Model: PC
+- IP Address: 210.3.14.5
+- Default Gateway: 210.3.14.1
